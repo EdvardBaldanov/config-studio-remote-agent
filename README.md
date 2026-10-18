@@ -1,6 +1,6 @@
 # Remote Server Agent Plugin for Config Studio 🖥️
 
-Официальный плагин **Remote Server Agent** для [Config Studio](https://github.com/EdvardBaldanov/Config-Editor).
+Официальный плагин **Remote Server Agent** для [Config Studio](https://github.com/EdvardBaldanov/config-studio).
 Позволяет управлять неограниченным количеством удаленных серверов (VPS, хосты, контейнеры) из единого интерфейса редактора.
 
 ## 🚀 Возможности
@@ -29,7 +29,7 @@
 
 1. Скачайте бинарник `config-studio` на целевой сервер:
    ```bash
-   curl -L -o config-studio https://github.com/EdvardBaldanov/Config-Editor/releases/latest/download/config-studio-linux-amd64
+   curl -L -o config-studio https://github.com/EdvardBaldanov/config-studio/releases/latest/download/config-studio-linux-amd64
    chmod +x config-studio
    ```
 2. Запустите его как демон или сервис systemd:
